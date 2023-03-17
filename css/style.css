@@ -3,7 +3,9 @@
   - Set the text color to `#1a1a1a`
   - Set line height to `1.5`
   - Update font size to `1.125rem`*/
-
+body {
+    font-family: 'Vesper Libre', serif;
+}
 /*2. Select the appropriate tag for the image
   - Add `width: 100%;`*/  
 
